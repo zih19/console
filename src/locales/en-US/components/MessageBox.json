@@ -1,6 +1,6 @@
 {
-  "messageBox": "Message Box",
-  "more": "More",
-  "noMessage": "No message yet",
-  "list": "Messages"
+  "messageBox": "Inbox",
+  "more": "All",
+  "noMessage": "No Message",
+  "list": "List"
 }

@@ -1,7 +1,7 @@
 {
   "user": {
     "personal-center": "Personal Center",
-    "control": "Access Control",
+    "control": "User & Access Control",
     "setting": "Settings",
     "logout": "Logout"
   },
@@ -16,5 +16,5 @@
   "help": "Help",
   "messages": "Messages",
   "count": "Message count",
-  "namespace": "namespace"
+  "namespace": "Namespace"
 }

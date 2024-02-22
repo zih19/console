@@ -9,7 +9,7 @@
     "upload": "Upload Files",
     "uploadPath": "File Path",
     "download": "Download Files",
-    "downloadPath": "Storage Path",
+    "downloadPath": "Download Path",
     "downloadPathError": "Enter the complete path of the file to be downloaded",
     "pathPrefixError": "Begin with /",
     "targetContainer": "Target Container",
